@@ -1,0 +1,1 @@
+{"name":"goyf's blog","short_name":"goyf-blog","description":"간단한 이슈 공유용 블로그. 누군가의 삽질 시간을 줄일 수 있으면 만족.","start_url":"/","background_color":"#fff","theme_color":"#6B46C1","display":"standalone","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"cacheDigest":null}
