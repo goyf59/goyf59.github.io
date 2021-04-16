@@ -3,6 +3,7 @@
 <url> <loc>https://goyf59.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://goyf59.github.io/jenkins-http-config</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/omv-docker-mount-delay</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/oh-my-zsh-git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/markdown-cheatsheet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -11,6 +12,7 @@
 <url> <loc>https://goyf59.github.io/tags/cheatsheet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags/docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://goyf59.github.io/tags/jenkins</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags/markdown</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags/omv</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://goyf59.github.io/tags/oh-my-zsh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
